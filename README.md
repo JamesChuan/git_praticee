@@ -1,2 +1,4 @@
 # git_praticee
-練習用
+## For Practicing  GitHub & Git ##
+
+## 
